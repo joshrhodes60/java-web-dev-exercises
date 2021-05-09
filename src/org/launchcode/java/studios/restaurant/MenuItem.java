@@ -1,4 +1,4 @@
-package restaurant;
+package org.launchcode.java.studios.restaurant;
 
 public class MenuItem {
     private Double price;

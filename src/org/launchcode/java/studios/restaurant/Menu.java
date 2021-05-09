@@ -1,4 +1,4 @@
-package restaurant;
+package org.launchcode.java.studios.restaurant;
 
 import java.util.Date;
 import java.util.ArrayList;
